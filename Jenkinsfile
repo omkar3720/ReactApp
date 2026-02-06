@@ -9,8 +9,8 @@ pipeline {
     environment {
         NODE_HOME = 'C:\\Program Files\\nodejs'
 
-        NGINX_HOME = 'D:\\Nginx\\nginx-1.28.1'
-        NGINX_HTML = 'D:\\Nginx\\nginx-1.28.1\\html'
+        NGINX_HOME = 'D:\\Nginx\\nginx-1.29.5'
+        NGINX_HTML = 'D:\\Nginx\\nginx-1.29.5\\html'
     }
 
     stages {
